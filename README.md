@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hldevv
 - 👀 I’m interested in everything related to software development :)
-- 🌱 I’m currently learning Python, Javascript, MERN, 
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Python, Javascript, MERN
 - 📫 How to reach me hldevv@protonmail.com
 
 <!---
